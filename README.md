@@ -4,11 +4,11 @@
 
 This repository contains processed structure predictions generated using AlphaFold 3. For more information, see [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3/tree/main) and [Abramson, J. et al. Nature (2024)](https://www.nature.com/articles/s41586-024-07487-w).
 
-This repository contains molecular dynamics trajectories generated using GROMACS 2026.0. For more information, see [gromacs.org](https://www.gromacs.org) and the primary methodological reference: [Abraham, M. J. et al. SoftwareX (2015)](https://doi.org/10.1016/j.softx.2015.06.001).
+This repository contains molecular dynamics trajectories generated using GROMACS 2025.2. For more information, see [gromacs.org](https://www.gromacs.org) and the primary methodological reference: [Abraham, M. J. et al. SoftwareX (2015)](https://doi.org/10.1016/j.softx.2015.06.001).
 
 Click below to launch:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yehudad/md-binder-pex26/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ydinaii/md-binder-pex26/HEAD)
 
 ## Notes
 
