@@ -6,12 +6,17 @@ This repository contains processed structure predictions generated using AlphaFo
 
 This repository contains molecular dynamics trajectories generated using GROMACS 2025.2. For more information, see [gromacs.org](https://www.gromacs.org) and the primary methodological reference: [Abraham, M. J. et al. SoftwareX (2015)](https://doi.org/10.1016/j.softx.2015.06.001).
 
-Click below to launch:
+Click below to launch notebook:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ydinaii/md-binder-pex26/HEAD)
 
-## Notes
+### Notes
 
 - First launch takes ~1–2 minutes
 - Works best on desktop Chrome
 
+## Mol*
+
+Click below to view the MD simulation in Mol*:
+
+[![Mol* Viewer](https://img.shields.io/badge/View_in-Mol*-box?logo=molecular-network&color=blue)](https://molstar.org/viewer/?snapshot-url=https://raw.githubusercontent.com/ydinaii/md-binder-pex26/refs/heads/main/mol-star_state.molx&snapshot-url-type=molx)
