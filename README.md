@@ -21,7 +21,7 @@ Click below to view the MD simulation in Mol*:
 
 [![Mol* Viewer](https://img.shields.io/badge/View_in-Mol*-box?logo=molecular-network&color=blue)](https://molstar.org/viewer/?snapshot-url=https://raw.githubusercontent.com/ydinaii/md-binder-pex26/refs/heads/main/mol-star_state.molx&snapshot-url-type=molx)
 
-Click below to view the MD simulation in Mol*:
+Click below to view the MD simulation in Mol* with more frames:
 
 [![Mol* Viewer](https://img.shields.io/badge/View_in-Mol*-box?logo=molecular-network&color=blue)](https://molstar.org/viewer/?snapshot-url=https://raw.githubusercontent.com/ydinaii/md-binder-pex26/refs/heads/main/mol-star_state_prmtop_xtc.molx&snapshot-url-type=molx)
 
